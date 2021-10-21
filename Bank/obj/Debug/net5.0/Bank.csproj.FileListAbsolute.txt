@@ -1,0 +1,16 @@
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.exe
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.deps.json
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.dll
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\ref\Bank.dll
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\bin\Debug\net5.0\Bank.pdb
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.dll
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\ref\Bank.dll
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.pdb
+D:\COMPUTACAO\C#\CONTA_BANCARIA\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
